@@ -2,7 +2,9 @@
 
 
 ✅ Option 1: Direct .exe Download
+
 Download petrotopic.exe from the release section and run the application directly.
+
 Download: https://github.com/codemasterlike/petrotopic/releases/tag/petrotopic
 
 ✅ Option 2: If Windows Blocks .exe Download
