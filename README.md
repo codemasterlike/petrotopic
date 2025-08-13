@@ -16,4 +16,6 @@ Welcome to Petrotopic
 
 ➕ And more…
 
+Download link: https://github.com/codemasterlike/petrotopic/releases/download/Petrotopic/petrotopic.zip
+
 For more details, visit 🌐 https://www.petrotopic.com
