@@ -30,7 +30,7 @@ For more details, visit 🌐 https://www.petrotopic.com
 
 # PetroTopic
 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fcodemasterlike.petrotopic%2Fvisits)
+[![Visitors](https://img.shields.io/badge/Visitors-See%20GitHub%20Traffic-blue)](https://github.com/codemasterlike/petrotopic/graphs/traffic)
 ![GitHub All Releases](https://img.shields.io/github/downloads/codemasterlike/petrotopic/total)
 ![GitHub Release](https://img.shields.io/github/v/release/codemasterlike/petrotopic)
 ![GitHub Stars](https://img.shields.io/github/stars/codemasterlike/petrotopic?style=social)
