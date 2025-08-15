@@ -26,3 +26,10 @@ Link 2 (exe): https://github.com/codemasterlike/petrotopic/releases/download/pet
 
 
 For more details, visit 🌐 https://www.petrotopic.com
+
+# PetroTopic
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=codemasterlike.petrotopic)
+![GitHub All Releases](https://img.shields.io/github/downloads/codemasterlike/petrotopic/total)
+![GitHub Release](https://img.shields.io/github/v/release/codemasterlike/petrotopic)
+![GitHub Stars](https://img.shields.io/github/stars/codemasterlike/petrotopic?style=social)
