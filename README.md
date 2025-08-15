@@ -32,6 +32,8 @@ For more details, visit 🌐 https://www.petrotopic.com
 
 [![Visitors](https://img.shields.io/badge/Visitors-See%20GitHub%20Traffic-blue)](https://github.com/codemasterlike/petrotopic/graphs/traffic)
 ![GitHub All Releases](https://img.shields.io/github/downloads/codemasterlike/petrotopic/total)
+
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/codemasterlike/petrotopic)
 ![GitHub Release](https://img.shields.io/github/v/release/codemasterlike/petrotopic)
 ![GitHub Stars](https://img.shields.io/github/stars/codemasterlike/petrotopic?style=social)
 
