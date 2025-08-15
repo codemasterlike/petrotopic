@@ -17,6 +17,9 @@ Welcome to Petrotopic
 ➕ And more…
 
 Download link: 
+
 Link 1 (Zip): https://github.com/codemasterlike/petrotopic/releases/download/petrotopic/petrotopic.zip
+
 Link 2 (exe): https://github.com/codemasterlike/petrotopic/releases/download/petrotopic/petrotopic.exe
+
 For more details, visit 🌐 https://www.petrotopic.com
